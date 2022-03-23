@@ -1,0 +1,108 @@
+.{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: rgb(49, 148, 151);
+    
+    
+}
+.container{
+    max-width: 100%;
+    background-color:rgba(255, 255, 255, 0.637);
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+header{
+
+}
+.ww{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 200%;
+    float: left;
+}
+.qq{
+    float: left;
+    padding: 30px;
+}
+h1,h2,h3,h4,h5,h6,p{
+ 
+}
+.hh{
+    float: right;
+}
+.hh a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+}
+.hh a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
+.zz{
+    clear: both;
+}
+hr{
+    border:3px solid black;
+    margin: 20px auto;
+    width: 100%;
+    border-bottom: none;
+}
+/*heder*/
+#sec{
+
+}
+.srce{
+    margin: 30px;
+}
+.se1{
+    width: 30%;
+    float: left;
+ 
+   
+   
+}
+.se2{
+    width: 70%;
+    float: left;
+ 
+   
+  
+}
+.hrr{
+    border: 1px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+/*parsonal inf../ work ex../key ski..*/
+.ee{
+    float: left;
+    width: 45%;
+}
+.ff{
+    float: right;
+    width:45% ; 
+}
+.jj{
+    background-color: rgb(64, 88, 63);
+    text-align: center;
+    padding: 10px;
+}
+.jj a{
+    color:white;
+    text-decoration: none;
+    margin: 20px;
+
+}
+.jj p{
+    color:white;
+    
+    margin-top: 20px;
+
+}
